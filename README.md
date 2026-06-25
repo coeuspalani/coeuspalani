@@ -339,7 +339,7 @@ Advanced ML / DL      ████████████░░░░░░░�
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/coeuspalani](https://linkedin.com/in/coeuspalani) |
 | 🐙 GitHub | [github.com/coeuspalani](https://github.com/coeuspalani) |
-| 🌐 Portfolio | [your-portfolio-url.vercel.app](https://your-portfolio-url.vercel.app) ← *update this* |
+| 🌐 Portfolio | [https://palani-portfolio.vercel.app/](palani-portfolio.vercel.app) |
 | 📧 Email | [palani232006@gmail.com](mailto:palani232006@gmail.com) |
 | 📍 Location | Tamil Nadu, India |
 
