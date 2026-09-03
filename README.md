@@ -33,7 +33,7 @@
 
 > *"Ship fast. Learn faster. Build things people actually use."*
 
-I'm a **3rd-year B.Tech Computer Science & Engineering** student at **SASTRA Deemed University, Thanjavur** (CGPA: 8.22/10), with a strong focus on building end-to-end products — from responsive web applications to machine learning pipelines and enterprise automation systems.
+I'm a **4th-year B.Tech Computer Science & Engineering** student at **SASTRA Deemed University, Thanjavur** (CGPA: 8.25/10), with a strong focus on building end-to-end products — from responsive web applications to machine learning pipelines and enterprise automation systems.
 
 I've interned at **Zoho** (Site24x7 Team, 2025) and **Titan Company Ltd.** (Systems Department, 2024), where I delivered production-grade software used by real teams. I'm passionate about solving meaningful problems with clean code and scalable architecture.
 
